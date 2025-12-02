@@ -1,0 +1,8 @@
+{
+  "summary": "Experienced backend dev with ML experience in time-series forecasting. Built a satellite forecast pipeline.",
+  "skills": ["Python", "TensorFlow", "GCP", "Docker"],
+  "projects": [
+    {"title":"Satellite Forecasting", "description":"Built end-to-end pipeline using TensorFlow and GCP", "tech_stack":["Python","TensorFlow","GCP"], "role":"Lead"},
+    {"title":"Realtime ETL", "description":"Streaming ETL for sensor data", "tech_stack":["Python","Apache Beam","Dataflow"], "role":"Developer"}
+  ]
+}

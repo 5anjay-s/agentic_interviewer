@@ -1,0 +1,4 @@
+[
+  {"id": "q1", "q": "Describe the architecture of your satellite forecasting model.", "ideal": "Should mention data pipeline, conv/transformer model, evaluation metrics, real-time inference"},
+  {"id": "q2", "q": "How did you preprocess time-series data?", "ideal": "Normalization, windowing, missing-value handling, augmentation"}
+]

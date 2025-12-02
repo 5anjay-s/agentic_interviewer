@@ -1,0 +1,3 @@
+For q1: we built a pipeline using satellite imagery, used a convolutional LSTM model, we did normalization and windowing. I implemented the training loop and evaluation metrics.
+
+For q2: We applied normalization, sliding windows and handled missing values by interpolation.
